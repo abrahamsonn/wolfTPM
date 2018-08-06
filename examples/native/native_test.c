@@ -19,7 +19,9 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
  */
 
-/* This example shows using the TPM2_ specification API's in TPM2_Native_Test() */
+/**
+ * This example shows using the TPM2_ specification API's in TPM2_Native_Test()
+ */
 
 #include <wolftpm/tpm2.h>
 
